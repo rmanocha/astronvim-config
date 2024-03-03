@@ -23,4 +23,5 @@ return {
     },
   },
   { import = "astrocommunity.colorscheme.kanagawa-nvim", enabled = true },
+  { import = "astrocommunity.test.neotest"},
 }
