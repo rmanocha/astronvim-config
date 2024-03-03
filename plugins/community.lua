@@ -22,4 +22,5 @@ return {
       },
     },
   },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim", enabled = true },
 }
